@@ -1,6 +1,6 @@
-module go_proxy_pool
+module github.com/FelixYYang/go_proxy_pool
 
-go 1.19
+go 1.22
 
 require (
 	github.com/gin-gonic/gin v1.8.1
